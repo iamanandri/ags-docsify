@@ -8,7 +8,7 @@
 </div>
 
 <script>
-    fetch("/metadata/bricks-css-classes.json").then(function (response){
+    fetch("./metadata/bricks-css-classes.json").then(function (response){
         return response.json();
     }).then(function(object){
         const filtered = object.filter(data => 
