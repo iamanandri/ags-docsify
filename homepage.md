@@ -1,6 +1,5 @@
 # Classes
 
-
 <div>
     <div id = "classesEntry">
         [Render classes and description here]
@@ -9,8 +8,6 @@
 </div>
 
 <script>
-    const search = document.getElementById("classSearch");
-
     fetch("/metadata/bricks-css-classes.json").then(function (response){
         return response.json();
     }).then(function(object){
@@ -27,7 +24,4 @@
             </div>
             `).join('');
     })
-    
-
-    
 </script>
