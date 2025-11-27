@@ -2,9 +2,6 @@
 
 
 <div>
-    <form>
-        <input id="classSearch" type="text" class="custom-input" placeholder="Enter class name"/>
-    </form>
     <div id = "classesEntry">
         [Render classes and description here]
     </div>
@@ -13,9 +10,6 @@
 
 <script>
     const search = document.getElementById("classSearch");
-    search.addEventListener("change", () => {
-        console.log("successful!");
-    });
 
     fetch("/metadata/bricks-css-classes.json").then(function (response){
         return response.json();
