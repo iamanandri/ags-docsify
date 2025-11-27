@@ -1,0 +1,699 @@
+[
+  {
+    "id": "jkkjia",
+    "name": "ren-pad-top-bottom-lg",
+    "settings": {
+      "_padding": {
+        "bottom": "var(--spacing-lg)",
+        "top": "var(--spacing-lg)"
+      }
+    },
+    "_exists": false
+  },
+  {
+    "id": "zbmxmc",
+    "name": "ren-gap-lg",
+    "settings": {
+      "_columnGap": "var(--spacing-lg)",
+      "_rowGap": "var(--spacing-lg)"
+    },
+    "_exists": false
+  },
+  {
+    "id": "duychn",
+    "name": "ren-container-width-lg",
+    "settings": {
+      "_widthMax": "1366",
+      "_width": "90%"
+    },
+    "modified": 1739690341,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "dnmezm",
+    "name": "ren-gap-md-md",
+    "settings": {
+      "_columnGap:tablet_portrait": "var(--spacing-md)",
+      "_rowGap:tablet_portrait": "var(--spacing-md)"
+    },
+    "_exists": false
+  },
+  {
+    "id": "knafbb",
+    "name": "ren-gap-xs",
+    "settings": {
+      "_columnGap": "var(--spacing-xs)",
+      "_rowGap": "var(--spacing-xs)"
+    },
+    "modified": 1734224582,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "kbxyvq",
+    "name": "ren-pre-header",
+    "settings": {
+      "_typography": {
+        "font-size": "var(--text-sm)",
+        "font-family": "Inter",
+        "font-weight": "500"
+      },
+      "_margin": {
+        "bottom": "-1rem"
+      }
+    },
+    "modified": 1740312141,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "qqnlaw",
+    "name": "ren-text-secondary",
+    "settings": {
+      "_typography": {
+        "color": {
+          "raw": "var(--color-secondary)"
+        }
+      }
+    },
+    "modified": 1733661236,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "ulvqfz",
+    "name": "ren-heading-2",
+    "settings": {
+      "_typography": {
+        "font-family": "Inter",
+        "font-size": "var(--text-2xl)"
+      }
+    },
+    "modified": 1733551470,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "admyse",
+    "name": "ren-grid-4col",
+    "settings": {
+      "_display": "grid",
+      "_gridTemplateColumns": "var(--grid-4)"
+    },
+    "modified": 1738151063,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "zznifr",
+    "name": "ren-grid-gap-md",
+    "settings": {
+      "_gridGap": "var(--spacing-md)"
+    },
+    "modified": 1734224977,
+    "user_id": 1,
+    "_exists": false
+  },
+  {
+    "id": "mcaawo",
+    "name": "ren-object-fit-contain",
+    "settings": {
+      "_objectFit": "contain"
+    },
+    "_exists": false
+  },
+  {
+    "id": "hfkbdw",
+    "name": "image-as-background",
+    "settings": {
+      "_width": "100%",
+      "_height": "100%",
+      "_position": "absolute",
+      "_pointerEvents": "auto"
+    },
+    "modified": 1742372415,
+    "user_id": 3
+  },
+  {
+    "id": "okrscs",
+    "name": "poe2-reg-txt-on-dark-bg",
+    "settings": {
+      "_typography": {
+        "color": {
+          "hex": "#d9d9d9",
+          "id": "oqidxn",
+          "name": "Color #3"
+        },
+        "font-family": "custom_font_1383"
+      }
+    },
+    "modified": 1745229336,
+    "user_id": 13
+  },
+  {
+    "id": "pnfoeu",
+    "name": "poe2-headlines",
+    "settings": {
+      "_typography": {
+        "font-size": "32",
+        "font-family": "custom_font_1684",
+        "font-weight": "600",
+        "color": {
+          "hex": "#2c0c08",
+          "id": "dffhmv",
+          "name": "Color #1"
+        },
+        "line-height": "1.05"
+      }
+    }
+  },
+  {
+    "id": "xrdhqy",
+    "name": "poe2-headline-dark",
+    "settings": []
+  },
+  {
+    "id": "lrwola",
+    "name": "-bg",
+    "settings": []
+  },
+  {
+    "id": "qzbtvm",
+    "name": "evergreen_heading2",
+    "settings": {
+      "_typography": {
+        "font-size": "58"
+      }
+    },
+    "modified": 1743525726,
+    "user_id": 19
+  },
+  {
+    "id": "lfabfd",
+    "name": "header-wukong",
+    "settings": []
+  },
+  {
+    "id": "mqkren",
+    "name": "brxe-speawd",
+    "settings": []
+  },
+  {
+    "id": "ehrdhx",
+    "name": "poe2-reg-text",
+    "settings": {
+      "_typography": {
+        "color": {
+          "hex": "#2c0c08",
+          "id": "dffhmv",
+          "name": "Color #1"
+        },
+        "font-size": "16",
+        "font-family": "custom_font_1383",
+        "line-height": "1.2"
+      },
+      "_margin": {
+        "left": "12",
+        "bottom": "28"
+      }
+    },
+    "modified": 1745412797,
+    "user_id": 13
+  },
+  {
+    "id": "svxjfo",
+    "name": "poe2.headline.bright",
+    "settings": []
+  },
+  {
+    "id": "wgyjln",
+    "name": "poe2.reg.text.bright",
+    "settings": [],
+    "modified": 1746090659,
+    "user_id": 13
+  },
+  {
+    "id": "nragbn",
+    "name": "background-test",
+    "settings": [],
+    "modified": 1746200513,
+    "user_id": 20
+  },
+  {
+    "id": "ryxixg",
+    "name": "tgs-poe2-review-interactive-glow",
+    "settings": {
+      "_typography:hover": {
+        "color": {
+          "hex": "#da3d29",
+          "id": "dcpqtg",
+          "name": "Color #2"
+        }
+      },
+      "_boxShadow:hover": {
+        "values": {
+          "offsetX": "0",
+          "offsetY": "0",
+          "blur": "12",
+          "spread": "8"
+        },
+        "color": {
+          "hex": "#da3d29",
+          "id": "dcpqtg",
+          "name": "Color #2"
+        },
+        "inset": true
+      }
+    },
+    "modified": 1746437256,
+    "user_id": 13
+  },
+  {
+    "id": "qiwhmj",
+    "name": "background-container",
+    "settings": []
+  },
+  {
+    "id": "wagqyc",
+    "name": "tgs-video-content-position-relative",
+    "settings": {
+      "_cssCustom": ".tgs-video-content-position-relative video {\n  position: relative;\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  object-position: center center;\n}",
+      "_padding": {
+        "top": "0"
+      }
+    },
+    "modified": 1746709810,
+    "user_id": 20
+  },
+  {
+    "id": "jxncjd",
+    "name": "tgs-custom-border-apply-on-block",
+    "settings": {
+      "_zIndex": "1",
+      "_padding": {
+        "right": "20",
+        "bottom": "20",
+        "top": "20",
+        "left": "20"
+      },
+      "_cssCustom": ".tgs-custom-border-apply-on-block {\n  border: 30px solid transparent;\n  border-image: url('https://gamyverse.com/wp-content/uploads/2025/05/TheGamesSphere_Reviews_BlackMythWukong_BorderOrnamentGridAlternative.svg') 30 stretch;\n}"
+    },
+    "modified": 1747717099,
+    "user_id": 3
+  },
+  {
+    "id": "unabvd",
+    "name": "tgs-custom-border-apply-on-video-overlap",
+    "settings": {
+      "_cssCustom": ".tgs-custom-border-apply-on-video-overlap::before {\n  content: \"\";\n  position: absolute;\n  inset: 0;\n  z-index: 2;\n  border: 30px solid transparent;\n  border-image: url('https://gamyverse.com/wp-content/uploads/2025/05/TheGamesSphere_Reviews_BlackMythWukong_BorderOrnamentGridAlternative.svg') 30 stretch;\n  \n}"
+    },
+    "modified": 1747723290,
+    "user_id": 3
+  },
+  {
+    "id": "rveywh",
+    "name": "tgs-section-spacing",
+    "settings": {
+      "_margin": {
+        "top": "30"
+      }
+    },
+    "modified": 1747039170,
+    "user_id": 80
+  },
+  {
+    "id": "hcruug",
+    "name": "tgs-container-grid",
+    "settings": {
+      "_display": "grid",
+      "_gridGap": "30",
+      "_gridTemplateColumns": "repeat(12, 1fr)"
+    },
+    "modified": 1747039170,
+    "user_id": 80
+  },
+  {
+    "id": "whjqvz",
+    "name": "mwwt-h1",
+    "settings": {
+      "_typography": {
+        "font-size": "36",
+        "color": {
+          "hex": "#1a1a1a",
+          "id": "gezzas",
+          "name": "Color #1"
+        },
+        "font-family": "Stoke",
+        "text-transform": "uppercase",
+        "text-shadow": {
+          "values": {
+            "offsetX": "0",
+            "offsetY": "0",
+            "blur": "4"
+          },
+          "color": {
+            "hex": "#1a1a1a",
+            "rgb": "rgba(26, 26, 26, 0.75)",
+            "hsl": "hsla(0, 0%, 10%, 0.75)"
+          }
+        }
+      }
+    },
+    "modified": 1748466783,
+    "user_id": 13
+  },
+  {
+    "id": "inysxv",
+    "name": "mwwt-h2",
+    "settings": {
+      "_typography": {
+        "font-size": "24",
+        "color": {
+          "hex": "#1a1a1a",
+          "id": "gezzas",
+          "name": "Color #1"
+        },
+        "font-family": "Stoke",
+        "text-shadow": {
+          "values": {
+            "offsetX": "0",
+            "offsetY": "0",
+            "blur": "6"
+          },
+          "color": {
+            "hex": "#1a1a1a",
+            "rgb": "rgba(26, 26, 26, 0.5)",
+            "hsl": "hsla(0, 0%, 10%, 0.5)"
+          }
+        }
+      }
+    },
+    "modified": 1748530689,
+    "user_id": 13
+  },
+  {
+    "id": "ckdrme",
+    "name": "mwwt-body-text",
+    "settings": {
+      "_typography": {
+        "font-size": "16",
+        "color": {
+          "hex": "#f4f1e8",
+          "id": "acqitx",
+          "name": "Color #3"
+        },
+        "line-height": "1.3",
+        "font-weight": "400",
+        "font-family": "Sorts Mill Goudy"
+      }
+    }
+  },
+  {
+    "id": "ppaohi",
+    "name": "tgs-custom-border-frame-effect",
+    "settings": {
+      "_cssCustom": ".tgs-custom-border-frame-effect::before {\n  border-image-source: url('IMAGE_SOURCE_FROM_MEDIA');\n}"
+    },
+    "modified": 1748589584,
+    "user_id": 29
+  },
+  {
+    "id": "koadoy",
+    "name": "tgs-survival-machine-rating-animation",
+    "settings": {
+      "_cssCustom": ".tgs-survival-machine-rating-animation{\n  --rating: scaleX(calc(0/5 * 100%));\n  --animationSpeed: 0.6s;\n  grid-column: 1/-1;\n  grid-row: 1/-1;\n  animation: tgs-survival-machine-expand var(--animationSpeed) linear forwards;\n  transform: scaleX(0);\n\ttransform-origin: left;\n}\n\n@keyframes tgs-survival-machine-expand {\n  from {\n    transform: scaleX(calc(0/5 * 100%));\n  }\n\n  to {\n    transform: var(--rating);\n}\n}"
+    },
+    "modified": 1749010407,
+    "user_id": 3
+  },
+  {
+    "id": "lmzwse",
+    "name": "tgs-mandragora-review-hover-effect-on-tab-block",
+    "settings": {
+      "_cssCustom": ".tgs-mandragora-review-hover-effect-on-tab-block:hover .tgs-mandragora-review-tab-smaller {\n  width: 288px !important;\n}\n\n.tgs-mandragora-review-hover-effect-on-tab-block .tgs-mandragora-review-tab-background-color {\n  transition: fill 0.3s ease;\n}\n\n.tgs-mandragora-review-hover-effect-on-tab-block:hover .tgs-mandragora-review-tab-background-color {\n  fill: #C2A045;\n  \n}"
+    },
+    "modified": 1748937362,
+    "user_id": 3
+  },
+  {
+    "id": "kvuncm",
+    "name": "tgs-full-width-height-cover-image",
+    "settings": {
+      "_objectFit": "cover",
+      "_width": "100%",
+      "_height": "100%"
+    },
+    "modified": 1749096365,
+    "user_id": 3
+  },
+  {
+    "id": "howlei",
+    "name": "btt--waterfall",
+    "settings": {
+      "_cssTransition": "all 0.5s ease",
+      "_background": {
+        "image": {
+          "id": 15800,
+          "filename": "SM-P2-Buttons.svg",
+          "size": "full",
+          "full": "https://gamyverse.com/wp-content/uploads/2025/06/SM-P2-Buttons.svg",
+          "url": "https://gamyverse.com/wp-content/uploads/2025/06/SM-P2-Buttons.svg"
+        }
+      },
+      "_cssFilters": {
+        "brightness": "126"
+      }
+    }
+  },
+  {
+    "id": "yekfkf",
+    "name": "heading-main",
+    "settings": {
+      "_typography": {
+        "font-size": "51",
+        "font-family": "Roboto Condensed",
+        "font-style": "italic"
+      },
+      "_margin": {
+        "bottom": "-1"
+      }
+    }
+  },
+  {
+    "id": "cagdnk",
+    "name": "heading-small",
+    "settings": {
+      "_typography": {
+        "font-family": "Roboto Condensed",
+        "font-style": "italic"
+      }
+    }
+  },
+  {
+    "id": "ifjnmj",
+    "name": "paragraph-normal",
+    "settings": {
+      "_typography": {
+        "font-family": "Roboto Condensed",
+        "font-style": "italic",
+        "font-weight": "300"
+      }
+    },
+    "modified": 1750876276,
+    "user_id": 87
+  },
+  {
+    "id": "ryzxgk",
+    "name": "brxe-xfkzho",
+    "settings": []
+  },
+  {
+    "id": "xzrmmb",
+    "name": ">",
+    "settings": []
+  },
+  {
+    "id": "zlcuub",
+    "name": "tab-menu",
+    "settings": []
+  },
+  {
+    "id": "gnyikk",
+    "name": "tab-title.brx-open",
+    "settings": {
+      "_background": {
+        "color": {
+          "hex": "#123c33",
+          "id": "wwvyih",
+          "name": "Color #4"
+        }
+      },
+      "_cssCustom": "#brxe-izpvfr > .tab-menu .tab-title.brx-open {\n  background-color: transparent !important;\n}\n"
+    }
+  },
+  {
+    "id": "yftqix",
+    "name": "Header",
+    "settings": []
+  },
+  {
+    "id": "zlhrxq",
+    "name": "Logo",
+    "settings": [],
+    "modified": 1753944185,
+    "user_id": 92
+  },
+  {
+    "id": "cnnlji",
+    "name": "gv-thread-card",
+    "settings": []
+  },
+  {
+    "id": "feufeo",
+    "name": "gv-thread-overlay",
+    "settings": []
+  },
+  {
+    "id": "xqipdi",
+    "name": "gv-thread-cat-main",
+    "settings": []
+  },
+  {
+    "id": "ficemm",
+    "name": "gv-thread-cat-sub",
+    "settings": []
+  },
+  {
+    "id": "kapftd",
+    "name": "gv-thread-body",
+    "settings": []
+  },
+  {
+    "id": "cyuwdy",
+    "name": "gv-thread-title",
+    "settings": []
+  },
+  {
+    "id": "vgvdpr",
+    "name": "gv-thread-meta",
+    "settings": []
+  },
+  {
+    "id": "mrtokr",
+    "name": "gv-thread-thumb-img",
+    "settings": []
+  },
+  {
+    "id": "nfibcq",
+    "name": "terms",
+    "settings": []
+  },
+  {
+    "id": "vmkije",
+    "name": "dot",
+    "settings": [],
+    "modified": 1754864234,
+    "user_id": 2
+  },
+  {
+    "id": "wdwnig",
+    "name": "gv-thread-form",
+    "settings": [],
+    "modified": 1754914202,
+    "user_id": 2
+  },
+  {
+    "id": "nwusxe",
+    "name": "comment-border-styling",
+    "settings": {
+      "_cssCustom": ".comment-author-box {\n  border: 2px solid #6831FF;\n  border-right:0;\n}\n\n.comment-author-img-box {\n  border: 2px solid #6831FF;\n  border-top: 0;\n  border-bottom: 0;\n  border-left: 0;\n}\n\n.comment-comment-box{\n  border: 2px solid #6831FF;\n  \n}\n\n.comment-reaction-box{\n  border: 2px solid #6831FF;\n  border-top: 0;\n}\n\n"
+    },
+    "modified": 1754984722,
+    "user_id": 3
+  },
+  {
+    "id": "hbdocu",
+    "name": "nav--big",
+    "settings": []
+  },
+  {
+    "id": "aqkzhj",
+    "name": "mouse-popups",
+    "settings": []
+  },
+  {
+    "id": "rblzmp",
+    "name": "mouse-popups-2",
+    "settings": []
+  },
+  {
+    "id": "pptykm",
+    "name": "tab-nestable-hover-state-color",
+    "settings": [],
+    "category": "rruxyx",
+    "modified": 1760596484,
+    "user_id": 3,
+    "_categoryData": {
+      "id": "rruxyx",
+      "name": "Animations and Interactions"
+    }
+  },
+  {
+    "id": "sxzfyt",
+    "name": "video-background",
+    "settings": {
+      "_cssCustom": ".video-background .bricks-background-video-wrapper,\n.video-background .bricks-background-video-wrapper iframe, \n.video-background .bricks-background-video-wrapper video {\n  position: fixed !important;\n  width: 100vw !important;\n  height: 100vh !important;\n}\n\n.video-background .bricks-background-video-wrapper {\n  max-width: 100% !important;\n}\n\n.video-background .bricks-background-video-wrapper video{\n  object-fit: cover;\n}"
+    },
+    "modified": 1762414248,
+    "user_id": 3,
+    "category": "unxogo",
+    "_categoryData": {
+      "id": "unxogo",
+      "name": "Background Styles"
+    }
+  },
+  {
+    "id": "vhhrkj",
+    "name": "darkModeTriggerClass",
+    "settings": []
+  },
+  {
+    "id": "bkyipk",
+    "name": "background-color-overlay",
+    "settings": {
+      "_cssCustom": ".background-color-overlay::after {\n  content: \"\";\n  position: fixed;\n  inset: 0;\n  z-index: -1;\n  background-color: black;\n  opacity: 0.5;\n  pointer-events: none;\n}"
+    },
+    "category": "unxogo",
+    "_categoryData": {
+      "id": "unxogo",
+      "name": "Background Styles"
+    }
+  },
+  {
+    "id": "jqbljb",
+    "name": "article-live-area-plate",
+    "settings": {
+      "_gridTemplateColumns": "repeat(12, 1fr)",
+      "_gridTemplateRows": "auto auto auto auto auto auto",
+      "_display": "grid",
+      "_width": "1135px",
+      "_height": "780px",
+      "_cssCustom": "/** VISUAL GRID BUILDER - START **/\n\n/** ce0ac1 - 1 **/\n.article-live-area-plate :nth-child(1) {\n  grid-column: 1 / 13;\n  grid-row: 1 / 7;\n}\n\n/** VISUAL GRID BUILDER - END **/"
+    },
+    "modified": 1763367242,
+    "user_id": 3
+  },
+  {
+    "id": "dugzzk",
+    "name": "tab-title-color-transition",
+    "settings": {
+      "_cssCustom": "/* Apply this on either:\n- the TAB NESTABLE itself, or\n- the TAB MENU block\n*/\n.tab-title-color-transition .tab-title, .tab-title-color-transition.tab-title {\n  transition: background-color 0.3s ease;\n}"
+    },
+    "category": "jrmauv",
+    "_categoryData": {
+      "id": "jrmauv",
+      "name": "Tabs (Nestable) Modification"
+    }
+  }
+]
