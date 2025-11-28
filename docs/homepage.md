@@ -16,12 +16,12 @@
         );
         
         document.getElementById("classesEntry").innerHTML = filtered.map(cls => 
-            `
+        `
             <div>
                 <h1>${cls.name}</h1>
                 <p><strong>Category:</strong> ${cls._categoryData?.name}</p>
                 <p><strong>Description:</strong>${cls.description}</p>
             </div>
-            `).join('');
+        `).join('');
     })
 </script>
